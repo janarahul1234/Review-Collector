@@ -6,7 +6,7 @@ A simple and efficient tool for collecting user reviews with a smooth and user-f
 
 ## Live Demo
 
-[View Live Review](#)
+[View Live Review](https://review-collector.onrender.com/)
 
 ## Features
 
@@ -25,7 +25,7 @@ A simple and efficient tool for collecting user reviews with a smooth and user-f
 ## Setup & Installation
 
 ```sh
-git clone <repository-url>
+git clone https://github.com/janarahul1234/Review-Collector.git
 ```
 
 ## License
